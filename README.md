@@ -4,7 +4,7 @@
 
 - :man:  He/Him
 - :computer:  Full-Stack Software Engineer
-- :mortar_board:  Attended Brooklyn College, majored in Computer Science
+- :mortar_board:  Attended Brooklyn College and majored in Computer Science
 - :octocat:  Learned to code at Hack Reactor (2022/10 cohort)
 - 🌱  Currently learning Python
 
